@@ -1,0 +1,8 @@
+.caja {
+    display: block;
+    
+    height: auto;
+    background-color: blueviolet;
+    
+    text-align: center;
+}
